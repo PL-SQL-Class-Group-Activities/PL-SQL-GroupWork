@@ -11,7 +11,7 @@ INSERT INTO login_audit (username, status) VALUES ('SimUser', 'FAILED');
 
 
 -- Check the Audit Trail
-SELECT * FROM login_audit WHERE username = 'Hacker_Bob';
+SELECT * FROM login_audit WHERE username = 'SimUser';
 
 -- Check the Alerts (We should see one row here)
 SELECT * FROM security_alerts WHERE username = 'SimUser';
