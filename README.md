@@ -1,8 +1,8 @@
 # PL/SQL Assignment Questions: Security Trigger & Package Implementation
 
-**Group Name :** C
+**Group Name:** C
 
-**Date :** 27-11-2025
+**Date:** 27-11-2025
 
 ## Group Members
 1. Keza Shania - 25793
@@ -47,15 +47,12 @@ We created a package `hospital_pkg` containing:
 3.  **Transaction Control:** Logic was separated into a **Specification** (Interface) and **Body** (Implementation).
 
 ### Results
-**1. Bulk Loading Patients (Success Message):**
 
+#### 1. Bulk Loading Patients — Success Message
 <img width="487" height="188" alt="Screenshot 2025-11-27 132650" src="https://github.com/user-attachments/assets/e72dada2-9d4a-4b23-8510-6183117b2114" />
 
-**2. Patients created in the table:**
-
+#### 2. Patients Created in the Table
 <img width="724" height="350" alt="Screenshot 2025-11-27 132611" src="https://github.com/user-attachments/assets/24373c04-42f3-450b-b818-a098c207e902" />
 
-
-**2. Retrieving Patient List (RefCursor Result):**
-
+#### 3. Retrieving Patient List — `RefCursor` Output Result
 <img width="1343" height="542" alt="Screenshot 2025-11-27 132803" src="https://github.com/user-attachments/assets/ff9ba888-8e07-454d-b40a-cdbaf7bae032" />
