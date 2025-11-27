@@ -5,7 +5,7 @@
 
 ## Group Members
 1. Keza Shania - 25793
-2. [Name] - [ID]
+2. Ruterana Gloire - 27717
 3. [Name] - [ID]
 4. [Name] - [ID]
 5. [Name] - [ID]
