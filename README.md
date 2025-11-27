@@ -55,4 +55,8 @@ We created a package `hospital_pkg` containing:
 <img width="724" height="350" alt="Screenshot 2025-11-27 132611" src="https://github.com/user-attachments/assets/24373c04-42f3-450b-b818-a098c207e902" />
 
 #### 3. Retrieving Patient List — `RefCursor` Output Result
-<img width="1343" height="542" alt="Screenshot 2025-11-27 132803" src="https://github.com/user-attachments/assets/ff9ba888-8e07-454d-b40a-cdbaf7bae032" />
+<img width="1343" height="542" alt="Screenshot 2025-11-27 132803" src="https://github.com/user-attachments/assets/ff9ba888-8e07-454d-b40a-cdbaf7bae032" />  
+
+### Conclusion 
+
+This assignment demonstrated how PL/SQL supports secure and efficient database operations. In Task 1, we implemented a compound trigger that detects repeated failed login attempts and logs security alerts without causing mutating table errors. In Task 2, we created a package that handles bulk patient insertion and retrieves patient lists using a RefCursor. Overall, the tasks showed practical applications of triggers and packages in building reliable database systems.  
