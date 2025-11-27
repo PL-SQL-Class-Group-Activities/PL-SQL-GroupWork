@@ -1,8 +1,8 @@
 # PL/SQL Assignment Questions: Security Trigger & Package Implementation
 
-**Group Name:** C
+**Group Name :** C
 
-**Date:** 27-11-2025
+**Date :** 27-11-2025
 
 ## Group Members
 1. Keza Shania - 25793
